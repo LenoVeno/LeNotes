@@ -29,6 +29,7 @@ scripts/ - project scripts
 
 Run:
 
+cd scripts
 ./newnote.sh
 
 Enter the note name and start writing.
